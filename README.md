@@ -9,7 +9,8 @@ Many things. Here's a list:
 - Network maps from around Dresden
 - Line maps using the i-MetrO website
 - Multi-language support (German and English)
- Here are things I'll add, if I have time:
+
+Here are things I'll add, if I have time:
 - Send location using Telegram to get departures at that stop
 - Saved stops from an inline keyboard
 - Send a map image from a specfic stop using VVO's PDF api

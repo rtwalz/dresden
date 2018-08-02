@@ -1,7 +1,7 @@
 # Dresden Bot
 Telegram bot for the DVB and VVO transit network in Dresden, Germany. Try it now at [t.me/dresdenbot](https://t.me/dresdenbot)
  ### How does it work?
-The bot uses the DVB mobile website's API to get real-time departures from specific stops, and to use the trip planner to get from one stop to another. 
+The bot uses the DVB mobile website's API to get real-time departures from specific stops, and to use the trip planner to get from one stop to another. The code is really messy and probably isn't readable, I made this quickly and copy and pasted a lot of code, there's duplicate code everywhere... :)
  ### What does it do?
 Many things. Here's a list:
 - Departure board for specific stops

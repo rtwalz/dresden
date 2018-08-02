@@ -1,5 +1,5 @@
 # Dresden Bot
-Telegram bot for the DVB and VVO transit network in Dresden, Germany. Try it now at t.me/dresdenbot
+Telegram bot for the DVB and VVO transit network in Dresden, Germany. Try it now at [t.me/dresdenbot](https://t.me/dresdenbot)
 
 ### How does it work?
 The bot uses the DVB mobile website's API to get real-time departures from specific stops, and to use the trip planner to get from one stop to another. 

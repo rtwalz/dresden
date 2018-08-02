@@ -1,0 +1,82 @@
+[{
+	"english": "Welcome to the *Dresden Transit bot*! I can help you navigate Dresden's trams, trains and buses. Here's what you can do with me:",
+	"german": "Willkommen zum *Dresdner ÖPNV-Bot*! Ich kann dir helfen, dich in Dresden zurechtzufinden. Hier die Dinge, die du mit mir machen kannst:"
+}, {
+	"english": "Get directions from one stop to another. Just type the first stop, press enter and then the second stop. Example:",
+	"german": "Verbindungsauskunft zwischen zwei Haltestellen. Tippe einfach den Namen der ersten Haltestelle und in die nächste Zeile der selben Nachricht den Namen der zweiten Haltestelle. Beispiel:"
+}, {
+	"english": "Get the departure board for a specific stop using real-time data from DVB. Just type the stop and send the message. Example:",
+	"german": "Abruf der Echtzeit-Abfahrtszeiten der DVB für eine bestimmte Haltestelle. Tippe einfach den Namen der Haltestelle und schicke die Nachricht ab. Beispiel:"
+}, {
+	"english": "Get a line map using /l, and see what stops are accessible on a line at the current time. Example:",
+	"german": "Abruf des Linienplans einer Straßenbahn- oder Buslinie mitsamt der erreichbaren Haltestellen. Tippe /l und die Liniennummer. Beispiel:"
+}, {
+	"english": "Get maps of the system. Type /m to see a list of all that are available.",
+	"german": "Download verschiedener Liniennetz-Karten. Tippe /m um eine Liste der verfügbaren Karten abzurufen."
+}, {
+	"english": "I can handle the entire VVO network. If you want to change the language of the bot, type /s. If you run into any problems or have feedback, message my creator, @rileyw. And thanks to @martinboehme for the bot username and German translations. Cheers!",
+	"german": "Ich beherrsche das gesamte VVO-Netz. Tippe /s um die Sprache des Bots zu ändern. Wenn du irgendwelche Probleme oder Feedback hast, schreibe einfach meinen Ersteller @rileyw an. Und Danke an @martinboehme für die Übertragung des Botnamens und für die deutsche Übersetzung. Cheers!"
+}, {
+	"english": "To use the route planner, you'll need to say two stops. Try typing:",
+	"german": "Um die Verbindungsauskunft zu verwenden, musst du mir zwei Haltestellen nennen. Versuche:"
+}, {
+	"english": "To use the departure monitor, you'll need to say a stop. Try typing:",
+	"german": "Um den Abfahrtsmonitor zu verwenden, musst du mir eine Haltestelle nennen. Versuche:"
+}, {
+	"english": "To get a line map, you'll need to say a line number. Try typing:",
+	"german": "Um einen Linienplan abzurufen, musst du mir eine Liniennummer nennen. Versuche:"
+}, {
+	"english": "Departures for",
+	"german": "Abfahrtszeiten für"
+}, {
+	"english": "Update departures",
+	"german": "Abfahrtszeiten aktualisieren"
+}, {
+	"english": "No stops found for that name.",
+	"german": "Keine Haltestellen für diesen Namen gefunden."
+}, {
+	"english": "Found multiple departing stations. Please pick one:",
+	"german": "Mehrere Abfahrtshaltestellen gefunden. Bitte wähle eine:"
+}, {
+	"english": "Couldn't find a departing station that matched your criteria.",
+	"german": "Es konnte keine Abfahrtshaltestelle gefunden werden, die deiner Eingabe entspricht."
+}, {
+	"english": "Found multiple arrival stations. Please pick one:",
+	"german": "Mehrere Ankunftshaltestellen gefunden. Bitte wähle eine:"
+}, {
+	"english": "Couldn't find an arrival station that matched your criteria.",
+	"german": "Es konnte keine Ankunftshaltestelle gefunden werden, die deiner Eingabe entspricht."
+}, {
+	"english": "Open on dvb.de",
+	"german": "Auf dvb.de öffnen"
+}, {
+	"english": "More info",
+	"german": "Mehr Infos"
+}, {
+	"english": "Download PDF",
+	"german": "PDF herunterladen"
+}, {
+	"english": "min trip",
+	"german": "Min. Reise"
+}, {
+	"english": "min walk",
+	"german": "Min. zu Fuß"
+}, {
+	"english": "Take the stairs up",
+	"german": "Gehe die Treppe hinauf"
+}, {
+	"english": "Take the stairs down",
+	"german": "Gehe die Treppe hinab"
+}, {
+	"english": "Walk to platform",
+	"german": "Begib dich zu Gleis"
+}, {
+	"english": "Important: The route above contains an alita taxi. You must call the service hotline at +49 351 8571111 at least 20 minutes before you want to set off. This is the information they need for your alita booking: the alita route in question, the stops you are travelling to and from, the time on the schedule at which you would like to leave, and your name.",
+	"german": "Wichtig: Die obige Verbindung enthält ein Alita-Taxi. Du musst es mindestens 20 Minuten vorher über +49 351 8571111 anfordern. Folgende Informationen werden benötigt: Die Verbindung um die es geht, die Abfahrts- und Ankunfthaltestellen, die Uhrzeit, um die du laut Fahrplan abfahren möchtest und dein Name."
+}, {
+	"english": "To choose a map to view, click the button below.",
+	"german": "Um aus den verfügbaren Karten zu wählen, klicke auf den folgenden Button."
+}, {
+	"english": "Maps",
+	"german": "Karten"
+}, {"english":"Updated.","german":"Aktualisiert."}, {"english":"Multiple stops found. Please choose one:", "german": "Mehrere Haltestellen gefunden. Bitte wähle eine:"}, {"english":"Walk", "german": "Fußweg"}]

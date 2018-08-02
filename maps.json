@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Liniennetz",
+    "description": "This schematic network map is the most important source of information and guidance when traveling from A to B within Dresden.",
+    "thumb": "https://cdn.glitch.com/daed98bf-70d1-4654-899f-c13129400cff%2FvRDcS6jm.jpeg?1531015704270",
+    "url": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_standard_pdf.pdf"
+  },
+  
+  {
+    "title": "GuteNachtLinie",
+    "description": "The GuteNacht lines are the only lines available in Dresden during 01:00 to 04:00 each morning. ",
+    "thumb": "https://cdn.glitch.com/daed98bf-70d1-4654-899f-c13129400cff%2FScreen%20Shot%202018-07-07%20at%2010.16.00%20PM.png?1531016281851",
+    "url": "https://www.dvb.de/-/media/files/liniennetz/dvb_gnl_standard_pdf.pdf"
+  },
+  
+  {
+    "title": "City Center",
+    "description": "Discover Dresden's lovely centre and always know exactly where the nearest stop is.",
+    "thumb": "https://cdn.glitch.com/daed98bf-70d1-4654-899f-c13129400cff%2FScreen%20Shot%202018-07-07%20at%2010.19.07%20PM.png?1531016397840",
+    "url": "https://www.dvb.de/-/media/files/liniennetz/innenstadtplan_pdf.pdf"
+  },
+  
+  {
+    "title": "Topographical Map",
+    "description": "The topographical city map shows you how to get to any corner of the city by bus and tram, without ever losing your bearings.",
+    "thumb": "https://cdn.glitch.com/daed98bf-70d1-4654-899f-c13129400cff%2FScreen%20Shot%202018-07-07%20at%2010.21.51%20PM.png?1531016525760",
+    "url": "https://www.dvb.de/-/media/files/liniennetz/dvb-stadtplan-liniennetz-dresden-bus-und-bahn_vorderseite.pdf"
+  },
+  
+  {
+    "title": "VVO Network Map",
+    "description": "This shows all the routes, stops and end points in the VVO network.",
+    "thumb": "https://cdn.glitch.com/daed98bf-70d1-4654-899f-c13129400cff%2FScreen%20Shot%202018-07-07%20at%2010.22.50%20PM.png?1531016626672",
+    "url": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-topografisch.pdf"
+  }
+  
+]
